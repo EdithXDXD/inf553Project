@@ -1,7 +1,7 @@
 # inf553Project. Individual contribution:
 
-Result Files:
-https://drive.google.com/drive/folders/1mbLbGB0pBRtLR-gwN1rEO4x29oLVsZmX?usp=sharing
+The test file of our system is "test_file.txt"
+The prediction of our output is "prediction_output.txt"
 
 -- UPDATED LINK --
 
