@@ -1,7 +1,7 @@
 # inf553Project. Individual contribution:
 
 The test file of our system is "test_file.txt".
-The prediction of our output is "prediction_output.txt".
+The prediction output is "prediction_output.txt".
 
 -- UPDATED LINK --
 
