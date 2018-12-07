@@ -1,7 +1,7 @@
 # inf553Project. Individual contribution:
 
 Result Files:
-https://drive.google.com/file/d/1R_KaiJBY_adfNJR8ZnKdlcbrs3Y8Uzbs/view?usp=sharing
+https://drive.google.com/drive/folders/1mbLbGB0pBRtLR-gwN1rEO4x29oLVsZmX?usp=sharing
 
 -- UPDATED LINK --
 
