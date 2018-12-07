@@ -1,10 +1,17 @@
-# inf553Project. Individual contribution:
-
-The test file of our system is "test_file.txt".
-The prediction output is "prediction_output.txt".
+# inf553Project. Results files:
 
 -- UPDATED LINK --
+https://drive.google.com/drive/folders/1mbLbGB0pBRtLR-gwN1rEO4x29oLVsZmX
 
+**processed data:**<br>
+The folder contains all the preprocessed data from the original yelp dataset.
+Notable file: <br>
+        **wordcloud folder**: visualization for user profile<br>
+        yelp_user_potential_restaurants_sample_all.txt: subset for restaurant-based cf<br>
+        
+
+
+# inf553Project. Individual Contributions
 **Ruyin Shao:** <br>
 1. Implement programs to generate sets of similar users by KNN  <br> 
 2. Transform the Euclidian distances into similariti measures Build the word cloud of user profiles based on these results <br> 
