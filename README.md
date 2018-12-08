@@ -1,7 +1,12 @@
-# inf553Project. Results files:
+# INF553 Project 
+
+## Results files:
 
 -- UPDATED LINK --
-https://drive.google.com/drive/folders/1mbLbGB0pBRtLR-gwN1rEO4x29oLVsZmX
+https://drive.google.com/drive/folders/1mbLbGB0pBRtLR-gwN1rEO4x29oLVsZmX <br>
+
+Presentation Slides:
+https://docs.google.com/presentation/d/1fWvIi0hu89uVlqh-cX9tEXkcK6Nz20BQ0SqYsZpUdg8/edit?usp=sharing <br>
 
 | File Name                                      | Type   | Description                                                                    |
 |------------------------------------------------|--------|--------------------------------------------------------------------------------|
@@ -11,11 +16,11 @@ https://drive.google.com/drive/folders/1mbLbGB0pBRtLR-gwN1rEO4x29oLVsZmX
 | user_based_prediction_result                   | folder | user-based predicted score and test sets                                       |
 | restaurant_based_prediction_result             | folder | restaurant-based predicted score                                               |
 | sentiment_analysis_score_for_user.txt          | TXT    | Sentiment Analysis for User Profile                                            |
-| **final_prediction_test_file.txt**                 | TXT    | final prediction test dataset                                                  |
-| **final_prediction_output.txt**                    | TXT    | final predicted scores (we processed the recommendation decision in notebook)  |
+| ***final_prediction_test_file.txt***                 | TXT    | final prediction test dataset                                                  |
+| ***final_prediction_output.txt***                    | TXT    | final predicted scores (we processed the recommendation decision in notebook)  |
 
 
-# inf553Project. Individual Contributions
+# INF553 Individual Contributions
 **Ruyin Shao:** <br>
 1. Implement programs to generate sets of similar users by KNN  <br> 
 2. Transform the Euclidian distances into similariti measures Build the word cloud of user profiles based on these results <br> 
