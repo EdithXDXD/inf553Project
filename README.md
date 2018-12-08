@@ -3,12 +3,16 @@
 -- UPDATED LINK --
 https://drive.google.com/drive/folders/1mbLbGB0pBRtLR-gwN1rEO4x29oLVsZmX
 
-**processed data:**<br>
-The folder contains all the preprocessed data from the original yelp dataset.
-Notable file: <br>
-        **wordcloud folder**: visualization for user profile<br>
-        yelp_user_potential_restaurants_sample_all.txt: subset for restaurant-based cf<br>
-        
+| File Name                                      | Type   | Description                                                                    |
+|------------------------------------------------|--------|--------------------------------------------------------------------------------|
+| processed data                                 | folder | all the preprocessed data from the original yelp dataset.                      |
+| wordcloud                                      | folder | visualization of user similarity profile                                       |
+| yelp_user_potential_restaurants_sample_all.txt | TXT    | Candidate set for restaurant recommendation                                    |
+| user_based_prediction_result                   | folder | user-based predicted score and test sets                                       |
+| restaurant_based_prediction_result             | folder | restaurant-based predicted score                                               |
+| sentiment_analysis_score_for_user.txt          | TXT    | Sentiment Analysis for User Profile                                            |
+| **final_prediction_test_file.txt**                 | TXT    | final prediction test dataset                                                  |
+| **final_prediction_output.txt**                    | TXT    | final predicted scores (we processed the recommendation decision in notebook)  |
 
 
 # inf553Project. Individual Contributions
